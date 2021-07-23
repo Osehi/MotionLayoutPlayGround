@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DeployMotionLayout</string>
+    <string name="activity_main_title">Phone Review</string>
+    <string name="activity_main_about_iphone">The iPhone is a smartphone made by Apple that combines a computer, iPod, digital camera and cellular phone into one device with a touchscreen interface.\n\nThe iPhone runs camera and cellular phone into one device with a touchscreen interface.\n\nThe iPhone runs the iOS operating system (OS), and as of 2017, there were 2.2 million apps available for it through the Apple App Store, according to Statista.</string>
+</resources>
